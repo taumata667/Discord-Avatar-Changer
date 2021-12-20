@@ -1,4 +1,3 @@
-
 # Discord Avatar Changer
 
 A simple Discord avatar changer. The purpose of use is arbitrary. You can use it to get the job done quickly or out of boredom.
