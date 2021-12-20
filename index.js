@@ -61,7 +61,7 @@ async function checkAvatar(url) {
             console.info("Script shutdown.")
             process.exit()
         }
-        console.success("Image downlading..")
+        console.success("Image downloading..")
         let image = await axios.request({
             url:url,
             method:"get",
