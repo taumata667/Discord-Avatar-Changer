@@ -33,6 +33,5 @@ or
 
 Bitcoin wallet: 34z1hGDyxeK8j1rzkGdSBGvSqQcXeSHLa8
 Ethereum wallet: 0x915e262dca21b2a9a2d4883abbf04a067aadbaf7
-#
 
 ## Cheers!
