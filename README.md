@@ -14,3 +14,13 @@ A simple Discord avatar changer. The purpose of use is arbitrary. You can use it
 Error when entering an incorrect token
 
 ![Uygulama Ekran Görüntüsü](https://i.imgur.com/5spPjzE.png)
+
+  ## How to start?
+
+```
+  npm start
+```
+or
+```
+  node index
+```
