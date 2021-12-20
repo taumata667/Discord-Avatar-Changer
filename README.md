@@ -1,3 +1,4 @@
+
 # Discord Avatar Changer
 
 A simple Discord avatar changer. The purpose of use is arbitrary. You can use it to get the job done quickly or out of boredom.
@@ -24,3 +25,14 @@ or
 ```
   node index
 ```
+## Developers
+
+- [@taumata667](https://www.github.com/taumata667)
+
+## For donates
+
+Bitcoin wallet: 34z1hGDyxeK8j1rzkGdSBGvSqQcXeSHLa8
+Ethereum wallet: 0x915e262dca21b2a9a2d4883abbf04a067aadbaf7
+#
+
+## Cheers!
